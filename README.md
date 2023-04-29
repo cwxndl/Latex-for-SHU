@@ -5,3 +5,4 @@
 
 - 你可以在此模板写一些课程作业以及自己的学习内容，以下是此模板的示例：
 
+![image text](https://github.com/cwxndl/Latex-for-SHU/blob/main/data/Example1_%E9%A1%B5%E9%9D%A2_1.png)
